@@ -1,0 +1,21 @@
+
+MEREK BERAS : Bola naga
+NAMA PEMBELI :Harry Finaldhi
+JENIS BERAS : Beras putih
+HARGA BERAS : 12.000
+JUMLAH DIBELI : 10
+
+
+MEREK BERAS : Beras Minang
+NAMA PEMBELI :Ahmad Raja
+JENIS BERAS : Beras ketan
+HARGA BERAS : 12.000
+JUMLAH DIBELI : 20
+
+
+MEREK BERAS : Beras merah
+NAMA PEMBELI :raja
+JENIS BERAS : Beras merah
+HARGA BERAS : 12.000
+JUMLAH DIBELI : 25
+
